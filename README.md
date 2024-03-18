@@ -1,6 +1,6 @@
 ------------------------------------------
 
-# 1. ![logo_dark](<img src="image_url.jpg" width="500" height="300">) 소개
+# 1. ![logo_dark](/frontend/public/image/readme_logo.png) 소개
 
   
   ### **친구와의 우정을 다시, 게임으로 느끼는 끈끈한 유대감**
