@@ -1,4 +1,5 @@
-# 1. ![logo](/exec/image/로고.png) SSMART-CART 소개
+![logo](/exec/image/로고.png)
+# 1. SSMART-CART 소개
 
   ### **쇼핑을 쾌적하게, 스마트 카트 프로젝트**
     
